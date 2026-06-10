@@ -19,7 +19,6 @@ Finally, another SQL script (`gold.sql`) does some aggregations on the clean dat
 
 ## Tech Stack
 - **Python** (for pulling the data and pushing it to the db)
-- **Libraries used:** `requests` (for the API), `sqlalchemy` and `psycopg2` (to talk to Postgres), and `python-dotenv` (to hide passwords).
 - **PostgreSQL** (for storing all the tables)
 
 ## How to run it
